@@ -1,6 +1,6 @@
 ## ConjurersBrew
 
-This repository houses the complete materials for reproducing microbiota-related results and metabolite PCA/hierachichal clustering figure published in: <br/>
+This repository houses the complete materials for reproducing microbiota-related results and metabolite PCA/hierarchical clustering published in: <br/>
 
 ## Metabolite profile comparisons between ascending and descending colon tissue in healthy adults
 
