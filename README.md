@@ -28,8 +28,8 @@ citation: Baxter, BA, KD Parker, MJ Nosler, S Rao, R Craig, C Seiler, EP Ryan. 2
 `vault/` = central storage for items produced in each of the `.R` scripts <br/>
 `sampledata_CB.txt` = sample data file <br/>
 `Script_01.R` = manifest creation and QIIME 2 processing/analysis <br/>
-`Script_02.R` = metataxonomics analysis <br/>
-`Script_03.R` = metabolite PCA/hierarchical clustering <br/>
+`Script_02.R` = metataxonomics analysis in RStudio <br/>
+`Script_03.R` = metabolite PCA/hierarchical clustering in RStudio <br/>
 
 Due to file size restrictions, a few items cannot be uploaded into their respective locations above. To overcome this limitation, the master directory with complete materials will be compressed and uploaded to Google Drive. That directory will then be available for download by clicking "Download anyway" after visiting the following [link ~pending](https://github.com/kdprkr/ConjurersBrew). To setup proper file paths, download, uncompress, and move `ConjurersBrew/` onto the `Desktop/`. <br/>
 
