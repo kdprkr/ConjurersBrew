@@ -1,4 +1,4 @@
-# ConjurersBrew
+# ConjurersBrew/
 
 This repository houses the complete materials for reproducing microbiota-related results and metabolite PCA/hierarchical clustering published in: <br/>
 
