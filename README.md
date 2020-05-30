@@ -6,9 +6,9 @@ This repository houses the complete materials for reproducing microbiota-related
 
 Baxter et al. 2020 <br/>
 Journal: *World Journal of Gastroenterology* <br/>
-[pubmed link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6969882/) <br/>
-[journal link](https://www.wjgnet.com/1007-9327/full/v26/i3/335.htm) <br/>
-citation: Baxter, BA, KD Parker, MJ Nosler, S Rao, R Craig, C Seiler, EP Ryan. 2020. Metabolite profile comparisons between ascending and descending colon tissue in healthy adults. *World J Gastroenterol*. doi: [10.3748/wjg.v26.i3.335](https://www.wjgnet.com/1007-9327/full/v26/i3/335.htm). PMID: [31988593](https://pubmed.ncbi.nlm.nih.gov/31988593/).
+[doi](https://www.wjgnet.com/1007-9327/full/v26/i3/335.htm)
+[PMID](https://pubmed.ncbi.nlm.nih.gov/31988593/)
+citation: Baxter, BA, KD Parker, MJ Nosler, S Rao, R Craig, C Seiler, EP Ryan. 2020. Metabolite profile comparisons between ascending and descending colon tissue in healthy adults. *World J Gastroenterol*. doi: 10.3748/wjg.v26.i3.335. PMID: 31988593.
 
 **Abstract:** 
 
